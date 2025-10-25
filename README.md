@@ -75,7 +75,7 @@ The analysis and model insights aim to:
 
 - **Languages:** Python, SQL  
 - **Libraries:** pandas, numpy, scikit-learn, XGBoost, imbalanced-learn, joblib, matplotlib, seaborn  
-- **Environment:** Jupyter Notebook / VS Code  
+- **Environment:** Jupyter Notebook  
 - **Data Source:** Kaggle — [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
 ---
