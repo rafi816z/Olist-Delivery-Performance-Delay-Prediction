@@ -1,4 +1,16 @@
 # 🛒 Olist-Delivery-Performance-Analysis
+---
+
+## 📌 Business Problem
+Olist is a large multi-seller e-commerce marketplace operating across Brazil and relies heavily on third-party logistics partners for order fulfillment.  
+As order volumes scale, **delivery delays have become a critical operational challenge**, negatively impacting customer satisfaction, review scores, and repeat purchases.
+
+Even though most orders are delivered on time, **a small percentage of delayed deliveries causes a disproportionate drop in customer ratings**, reducing customer trust and increasing churn.  
+Delays also vary significantly by **region, payment method, seller, and carrier**, making it difficult to identify where proactive interventions are most effective.
+
+This project applies **data analytics and predictive modeling** to identify delay drivers, quantify their business impact, and predict high-risk orders before dispatch—enabling Olist to improve delivery reliability and customer experience.
+
+---
 
 ## 🚚 Project Description
 
